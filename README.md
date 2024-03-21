@@ -1,4 +1,12 @@
 # Fourth_challenge
+
+### Figure: Attached Files
+
+The first part of the challenge is located in the attached files.
+
+### Restaurant:
+Below you will find the second part of the challenge.
+
 ```python
 class MenuItem:
     def __init__(self, name, price):
